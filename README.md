@@ -51,6 +51,7 @@ Use the examples as templates and adapt them to your own pair, timeframe, and ri
 | Prompt | Description | Link |
 |--------|-------------|------|
 | Contrarian Agent | Self-learning contrarian trading agent with journal-based memory and twice-daily scheduling | [contrarian-agent.md](autonomous_trading/contrarian-agent.md) |
+| Nansen Smart Money Signal | Signal-driven agent that scores Nansen smart money flow, picks the highest-conviction pair, and auto-rotates every 4 hours | [nansen-smart-money.md](autonomous_trading/nansen-smart-money.md) |
 
 ## Miscellaneous
 
