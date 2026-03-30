@@ -2,6 +2,8 @@
 
 Practical workflows and examples for using [Superior Trade](https://www.superior.trade/) through agents.
 
+[Website](https://www.superior.trade/) · [Discord](https://discord.gg/aVZR8cCxcR) · [Twitter](https://x.com/SuperiorTrade_)
+
 Designed for copy-paste usage, especially in OpenClaw-style environments where users want a fast path from prompt to structured trading workflow.
 
 ## Who this is for
