@@ -40,19 +40,23 @@ Good starting points:
 
 Use the examples as templates and adapt them to your own pair, timeframe, and risk profile.
 
-## Planned structure
+## Strategy Building
 
-```
-superior-examples/
-├── strategy_building/         # Strategy creation and backtesting workflows
-│   ├── btc-rsi-backtest.md
-│   ├── sol-breakout.md
-│   └── hip3-stocks.md
-└── autonomous_trading/        # Live deployment and agent operation workflows
-    ├── deploy-and-monitor.md
-    ├── contrarian-agent.md
-    └── dca-workflow.md
-```
+| Prompt | Description | Link |
+|--------|-------------|------|
+| S&P 500 DCA | Dollar-cost averaging strategy on the S&P 500 index via Hyperliquid HIP3 | [s&p500-dca.md](strategy_building/s&p500-dca.md) |
+
+## Autonomous Trading
+
+| Prompt | Description | Link |
+|--------|-------------|------|
+| Contrarian Agent | Self-learning contrarian trading agent with journal-based memory and twice-daily scheduling | [contrarian-agent.md](autonomous_trading/contrarian-agent.md) |
+
+## Miscellaneous
+
+| Prompt | Description | Link |
+|--------|-------------|------|
+| Multi-Account Management | Manage multiple Superior Trade accounts from a single agent session | [multi-account.md](miscellaneous/multi-account.md) |
 
 ## Philosophy
 
